@@ -12,6 +12,7 @@ This is a meme, but a real attempt to learn Java, ngl i learned a bit of java li
 - Tripi for the crazy suffix
 - Zori for pasted wrapper
 - Gamesense from @UIDevMan for custom view model better
+- emphack+ from historian by the initial strafe
 - if i forget someone srry kek
 
 # Why i turned it public
