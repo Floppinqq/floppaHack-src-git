@@ -1,0 +1,15 @@
+[{
+	"modid"        : "floppahack",
+	"name"         : "stronggg floppaHack go flopp some niggas",
+	"description"  : "this is based",
+	"version"      : "b1.1",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "",
+	"updateUrl"    : "",
+	"authorList"   : ["Floppinqq"],
+	"credits"      : "Floppinqq strongggg",
+	"logoFile"     : "wurstplus.jpg",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
