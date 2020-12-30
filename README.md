@@ -1,33 +1,31 @@
-# CheatBreakerPlus SRC aka my wurstplustwo paste
-# About
-This is my "meme" client 
-most of the code is pasted from 
-- Osiris
-- Xulu
-- Salhack
-- Bope
-- Zori
-- EmpHack
+# FloppaHack-b1.1-Source
 
-only like 5 modules are from my own code 
+## Basically, floppaHack was a "Secret" project that i, Floppinqq started, it started like 3 weeks ago.
 
-The src is in b7 i was making a better antiafk and it has a autoqueuemain if you want to build it, the posted in releases is b6
-
-
-# Why did i leak?
-
-CGrego a person who i trusted go to far and leaked 
+This is a meme, but a real attempt to learn Java, ngl i learned a bit of java like variables, methods and etc...
 
 # Credits
+- Wurst+2 from @TrvsF for the client base
+- CheatBreaker+ from @WarriorCrystal for some modules
+- IngrosWare for util stuff
+- dont count because it was removed but Phobos from any Decompiled for Utils (removed)
+- Tripi for the crazy suffix
+- Zori for pasted wrapper
+- Gamesense from @UIDevMan for custom view model better
+- if i forget someone srry kek
 
-- Osiris for pasted code
-- Xulu for pasted code
-- SalHack for pasted code
-- Zori for pasted code
-- EmpHack for pasted code
-- Bope for pasted code and base
-- Trvsf and WurstplusTwo for the base
+# Why i turned it public
+because with only one guy in the whole project is hard, i was losing braincells while seeing w+2 spaghetti code and need to fix everything
+my project was add custom font and stuff like, idk, uuid protection, and shit but spaghetti code dont let me do that.
 
-![Donwloads](https://img.shields.io/github/downloads/WarriorCrystal/CheatBreakerPlus-src/total)
+# License?
+hmm, yeah, if you want skid that you can but if you want to post in github, add my credit pls :)
 
- 
+# etc...
+i fixed the fucking horrible gui from W+2
+fixed tab bug
+fixed boogaloo things in util
+
+- red name modules is the unstable / not working modules
+
+# enjoy the buggie buggie hack
